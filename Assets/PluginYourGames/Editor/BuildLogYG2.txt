@@ -1,0 +1,3 @@
+﻿Build path: V:/.Gamedev/.Game Projects Unity/testUSSR/builds
+Build number: 5
+PluginYG version: 2.007
