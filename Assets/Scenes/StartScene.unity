@@ -3669,7 +3669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7363d3049ab1b94482a8f303a4f57ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ButtonHoverSound
-  hoverSound: {fileID: 8300000, guid: 939a783f4f847734c843ed6730096db2, type: 3}
+  hoverSound: {fileID: 8300000, guid: 0ed143d7cfe9a7742b3e082b23d58a8e, type: 3}
 --- !u!1 &1792047470
 GameObject:
   m_ObjectHideFlags: 0
